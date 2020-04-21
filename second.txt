@@ -1,3 +1,0 @@
-hello second.txt
-
-hello updated second.txt
